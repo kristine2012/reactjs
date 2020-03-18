@@ -1,0 +1,12 @@
+.blue{
+  background: lightblue;
+  color: blue;
+  font-size: 35px;
+}
+
+.green{
+  width: 150px;
+  height:40px;
+  font-size: 24px;
+  background: green;
+}
